@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "954518233319",
+    "firebase_url": "https://testkp-b30ea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testkp-b30ea",
+    "storage_bucket": "testkp-b30ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954518233319:android:5faebf97fb39b99fd04242",
+        "android_client_info": {
+          "package_name": "com.example.bmicalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSKLb48ZZsKBBIbKrE1QpolcUJxGvg08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954518233319:android:485ed58289740a5dd04242",
+        "android_client_info": {
+          "package_name": "com.example.testkp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSKLb48ZZsKBBIbKrE1QpolcUJxGvg08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954518233319:android:34b0950bef0f4497d04242",
+        "android_client_info": {
+          "package_name": "com.example.testtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSKLb48ZZsKBBIbKrE1QpolcUJxGvg08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
